@@ -4,6 +4,6 @@ cd Ejercicio-IA
 git checkout -b ejercicio1
 git checkout -b ejercicio2
 
-git checkout ejercicio1   
-git checkout ejercicio2    
+git checkout rama1   
+git checkout rama2    
 git checkout main   
